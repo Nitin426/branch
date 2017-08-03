@@ -1,3 +1,7 @@
 this is the text file.
 changed for testing
+<<<<<<< HEAD
 thrid line: master
+=======
+third line : dev
+>>>>>>> dev
