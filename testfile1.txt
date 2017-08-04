@@ -5,3 +5,5 @@ thrid line: master
 =======
 third line : dev
 >>>>>>> dev
+new line
+new file
